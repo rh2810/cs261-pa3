@@ -1,7 +1,7 @@
 /*
  * CS 261: Main driver
  *
- * Name: 
+ * Name: Ryan
  */
 
 #include "p1-check.h"
@@ -12,4 +12,3 @@ int main (int argc, char **argv)
 {
     return EXIT_SUCCESS;
 }
-
